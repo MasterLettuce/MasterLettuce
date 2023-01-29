@@ -12,7 +12,7 @@ Tengo las bases de:
 2. PHP
 3. PYTHON
 4. JAVASCRIPT
->#### Tenganme paciencia :).
+>### Tenganme paciencia :).
 
 
 
