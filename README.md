@@ -1,16 +1,18 @@
-### Por que debo seguir aprendiendo.
-<body background=black></body>
-<!--
-**MasterLettuce/MasterLettuce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>### Por que debo seguir aprendiendo.
+# Estoy en busqueda de ampliar mi experiencia en el ambito de la programación.
 
-Here are some ideas to get you started:
+**¿Que es estoy aprendiendo y actualizando en este momento?**<br>
+Tengo las bases de:
+1. HTML
+2. FORTRAN
+3. MATLAB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Y estoy deseoso de aprender:**
+1. SQL
+2. PHP
+3. PYTHON
+4. JAVASCRIPT
+>#### Tenganme paciencia :).
+
+
+
